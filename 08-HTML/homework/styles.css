@@ -4,10 +4,13 @@ h1{
 img{
     width: 400px;
 }
-#thirDiv{
+#thirdDiv{
     height: 600px;
     width: 500px;
     background-color: chocolate;
+    padding: 50px;
+    border: 20px black solid;
+
 } 
 #spanId{
     font-size: 18px;
