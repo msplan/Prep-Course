@@ -50,11 +50,14 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-direction: row-reverse;
 }
 
 
 
 /* Ejercicio 6. */
-#ejercicioCinco{
+#ejercicioSiete{
+    display: flex;
+    align-items: center;
     flex-direction: row-reverse;
 }
